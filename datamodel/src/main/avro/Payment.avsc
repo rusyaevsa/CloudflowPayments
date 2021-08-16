@@ -1,0 +1,19 @@
+{
+    "namespace": "com.payments.datamodel",
+    "type": "record",
+    "name": "Payment",
+    "fields":[
+         {
+            "name": "sender",
+            "type": "string"
+         },
+         {
+            "name": "receiver",
+            "type": "string"
+         },
+         {
+            "name": "amount",
+            "type": "float"
+         }
+    ]
+}

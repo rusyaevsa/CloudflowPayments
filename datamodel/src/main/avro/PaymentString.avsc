@@ -1,0 +1,11 @@
+{
+    "namespace": "com.payments.datamodel",
+    "type": "record",
+    "name": "PaymentString",
+    "fields":[
+         {
+            "name": "Payment",
+            "type": "string"
+         }
+    ]
+}

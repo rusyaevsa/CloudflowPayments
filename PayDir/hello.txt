@@ -1,0 +1,5 @@
+Alex -> Bob: 100.1
+Alex -> Bob: 10
+Bob -> Tom: 101
+jjj -> hhh: 0
+h -> k: 555

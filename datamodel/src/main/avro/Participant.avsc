@@ -1,0 +1,15 @@
+{
+    "namespace": "com.payments.datamodel",
+    "type": "record",
+    "name": "Participant",
+    "fields":[
+         {
+            "name": "participantID",
+            "type": "string"
+         },
+         {
+             "name": "balance",
+             "type": "float"
+         }
+    ]
+}
