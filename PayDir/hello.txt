@@ -3,3 +3,6 @@ Alex -> Bob: 10
 Bob -> Tom: 101
 jjj -> hhh: 0
 h -> k: 555
+sdafd
+fddf
+dsga

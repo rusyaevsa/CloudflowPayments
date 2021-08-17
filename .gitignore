@@ -1,0 +1,16 @@
+# Project exclude paths
+/check-streamlet/target/streams/
+/datamodel/target/avro/
+/datamodel/target/streams/
+/file-ingress/target/avro/
+/file-ingress/target/streams/
+/http/target/avro/
+/http/target/streams/
+/logger-streamlet/target/streams/
+/payments-pipeline/target/avro/
+/payments-pipeline/target/streams/
+/project/project/target/
+/project/target/
+/target/global-logging/
+/target/scala-2.12/classes/
+/target/streams/
